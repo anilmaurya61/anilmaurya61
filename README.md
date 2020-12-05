@@ -25,7 +25,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="aljagne.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="aljagne.com" width="22px" src=".........." />][website]
 [<img align="left" alt="aljagne | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="aljagne | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="aljagne | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -54,26 +54,14 @@
 <br />
 <br />
 
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How To Create An Amazing GitHub Profile README](https://dev.to/aljagne/how-to-create-an-amazing-github-profile-readme-529c)
-- [Moroccan Vegetarian Tagine Card](https://dev.to/aljagne/moroccan-vegetarian-tagine-card-520i)
-- [Discover Morocco](https://dev.to/aljagne/discover-morocco-1odl)
-<!-- BLOG-POST-LIST:END -->
-
----
 
 <img align="left" alt="aljagne's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aljagne&show_icons=true&hide_border=true" />
 
 
 [website]: https://aljagne.com
-[twitter]: https://twitter.com/aljagne
-[youtube]: https://youtube.com/aljagne
-[instagram]: https://instagram.com/aljagne
-[linkedin]: https://www.linkedin.com/in/aljagne/
+[twitter]:https://twitter.com/Anilmaurya61
+[instagram]: https://instagram.com/_anil_maurya
+[linkedin]: https://www.linkedin.com/in/anil-maurya-410346194/
 
 <!-- [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
