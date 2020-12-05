@@ -1,7 +1,5 @@
 ### Hi there, I'm Anil Maurya! 👋
 
-
-<br />
 <br />
 
 ## I'm an Enthusiastic, Self-Motivated, Web Developer and competitive programmer!
