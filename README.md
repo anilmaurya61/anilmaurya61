@@ -1,16 +1,5 @@
 ### Hi there, I'm Anil Maurya! 👋
 
-<a href="https://codesandbox.io/u/aljagne">
-  <img align="left" alt="Alieu Jagne | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
-<a href="https://twitter.com/aljagne">
-  <img align="left" alt="Alieu Jagne | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-<a href="https://dev.to/aljagne">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Alieu Jagne's DEV Profile" height="30" width="30">
-</a>
-<a href="https://discord.gg/DarkLio#2879">
-  <img align="left" alt="Alieu Jagne" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a>
 
 <br />
 <br />
@@ -25,7 +14,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="aljagne.com" width="22px" src=".........." />][website]
+
 [<img align="left" alt="aljagne | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="aljagne | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="aljagne | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
