@@ -2,7 +2,7 @@
 
 <br />
 
-## I'm an Enthusiastic, Self-Motivated, Web Developer and competitive programmer!
+## I'm an Enthusiastic, Self-Motivated, Web Developer and Competitive programmer!
 
 - 🔭 I’m currently working on an [Nietianshub.com][website], and studying at the same time!
 - 🌱 I’m currently learning everything 😂
