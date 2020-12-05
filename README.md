@@ -4,7 +4,6 @@
 
 ## I'm an Enthusiastic, Self-Motivated, Web Developer and Competitive programmer!
 
-- 🔭 I’m currently working on an [Nietianshub.com][website], and studying at the same time!
 - 🌱 I’m currently learning everything 😂
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Finish My Project & Contribute to some Open Source projects
