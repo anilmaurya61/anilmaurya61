@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning everything 😂
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Finish My Project & Contribute to some Open Source projects
+- 🥅 2022 Goals: Finish My Project & Contribute to some Open Source projects
 - 🎭 Fun fact: I love Coding💻/ Swimming🏊‍♂️ / playing Badminton🏸/ and Discovery🌍
 
 ### Connect with me:
